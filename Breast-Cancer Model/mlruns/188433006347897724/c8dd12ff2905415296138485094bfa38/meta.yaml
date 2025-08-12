@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/188433006347897724/c8dd12ff2905415296138485094bfa38/artifacts
+end_time: 1755022743472
+entry_point_name: ''
+experiment_id: '188433006347897724'
+lifecycle_stage: active
+run_id: c8dd12ff2905415296138485094bfa38
+run_name: LR
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755022736043
+status: 3
+tags: []
+user_id: ankit

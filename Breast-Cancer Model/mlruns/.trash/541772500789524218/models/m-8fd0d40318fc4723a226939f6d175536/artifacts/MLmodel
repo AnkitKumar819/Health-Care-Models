@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/ankit/OneDrive/Desktop/Git/Health-Care-Models/Breast-Cancer%20Model/mlruns/541772500789524218/models/m-8fd0d40318fc4723a226939f6d175536/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-8fd0d40318fc4723a226939f6d175536
+model_size_bytes: 4071
+model_uuid: m-8fd0d40318fc4723a226939f6d175536
+prompts: null
+run_id: a68c0d4ad0dc4bc893dd937bd5276dc0
+utc_time_created: '2025-08-12 15:51:54.145350'

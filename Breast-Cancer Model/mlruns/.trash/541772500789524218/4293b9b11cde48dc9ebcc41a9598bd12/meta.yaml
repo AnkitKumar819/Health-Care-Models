@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ankit/OneDrive/Desktop/Git/Health-Care-Models/Breast-Cancer%20Model/mlruns/541772500789524218/4293b9b11cde48dc9ebcc41a9598bd12/artifacts
+deleted_time: 1755014117338
+end_time: 1755013986771
+entry_point_name: ''
+experiment_id: '541772500789524218'
+lifecycle_stage: deleted
+run_id: 4293b9b11cde48dc9ebcc41a9598bd12
+run_name: LR
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755013962641
+status: 3
+tags: []
+user_id: ankit

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ankit/OneDrive/Desktop/Git/Health-Care-Models/Breast-Cancer%20Model/mlruns/541772500789524218/models/m-8fd0d40318fc4723a226939f6d175536/artifacts
+creation_timestamp: 1755013913992
+experiment_id: '541772500789524218'
+last_updated_timestamp: 1755013922735
+model_id: m-8fd0d40318fc4723a226939f6d175536
+model_type: ''
+name: model
+source_run_id: a68c0d4ad0dc4bc893dd937bd5276dc0
+status: 2
+status_message: null

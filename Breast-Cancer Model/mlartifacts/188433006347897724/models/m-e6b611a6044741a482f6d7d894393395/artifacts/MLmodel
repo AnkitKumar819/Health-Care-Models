@@ -1,0 +1,56 @@
+artifact_path: mlflow-artifacts:/188433006347897724/models/m-e6b611a6044741a482f6d7d894393395/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-e6b611a6044741a482f6d7d894393395
+model_size_bytes: 126239
+model_uuid: m-e6b611a6044741a482f6d7d894393395
+prompts: null
+run_id: 914b42d4157942498704b1ec179b23cd
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "radius_mean", "required": true}, {"type":
+    "double", "name": "texture_mean", "required": true}, {"type": "double", "name":
+    "perimeter_mean", "required": true}, {"type": "double", "name": "area_mean", "required":
+    true}, {"type": "double", "name": "smoothness_mean", "required": true}, {"type":
+    "double", "name": "compactness_mean", "required": true}, {"type": "double", "name":
+    "concavity_mean", "required": true}, {"type": "double", "name": "concave points_mean",
+    "required": true}, {"type": "double", "name": "symmetry_mean", "required": true},
+    {"type": "double", "name": "fractal_dimension_mean", "required": true}, {"type":
+    "double", "name": "radius_se", "required": true}, {"type": "double", "name": "texture_se",
+    "required": true}, {"type": "double", "name": "perimeter_se", "required": true},
+    {"type": "double", "name": "area_se", "required": true}, {"type": "double", "name":
+    "smoothness_se", "required": true}, {"type": "double", "name": "compactness_se",
+    "required": true}, {"type": "double", "name": "concavity_se", "required": true},
+    {"type": "double", "name": "concave points_se", "required": true}, {"type": "double",
+    "name": "symmetry_se", "required": true}, {"type": "double", "name": "fractal_dimension_se",
+    "required": true}, {"type": "double", "name": "radius_worst", "required": true},
+    {"type": "double", "name": "texture_worst", "required": true}, {"type": "double",
+    "name": "perimeter_worst", "required": true}, {"type": "double", "name": "area_worst",
+    "required": true}, {"type": "double", "name": "smoothness_worst", "required":
+    true}, {"type": "double", "name": "compactness_worst", "required": true}, {"type":
+    "double", "name": "concavity_worst", "required": true}, {"type": "double", "name":
+    "concave points_worst", "required": true}, {"type": "double", "name": "symmetry_worst",
+    "required": true}, {"type": "double", "name": "fractal_dimension_worst", "required":
+    true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-12 17:55:28.717891'
