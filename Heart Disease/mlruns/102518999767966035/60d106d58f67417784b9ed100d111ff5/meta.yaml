@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/102518999767966035/60d106d58f67417784b9ed100d111ff5/artifacts
+end_time: 1755032822700
+entry_point_name: ''
+experiment_id: '102518999767966035'
+lifecycle_stage: active
+run_id: 60d106d58f67417784b9ed100d111ff5
+run_name: DTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755032816064
+status: 3
+tags: []
+user_id: ankit

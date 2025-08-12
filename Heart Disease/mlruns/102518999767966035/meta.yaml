@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/102518999767966035
+creation_time: 1755027576183
+experiment_id: '102518999767966035'
+last_update_time: 1755027576183
+lifecycle_stage: active
+name: Heart_Classifier
